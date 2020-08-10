@@ -1,0 +1,15 @@
+1.  Level the mount 
+2.  Roughly polar align mount as best possible, Do an Easy align.
+3.  Pick a star on meridian, just north of celestial equator 
+4.  Adjust reticle eyepiece crosshairs with north-south and east-west axes of mount
+5.  Place the star on the horizontal crosshair with the Autostar
+      If the star drifts up, adjust the wedge in azimuth to move star right
+      If the star drifts down, adjust the wedge in azimuth to move star left 
+6.  Place the star back on the crosshair using the Autostar and check drift
+7.  Repeat adjustments as necessary until no drift is seen for 5 minutes
+8.  Pick a star in the east, about 20° above horizon 
+9.  Place the star on the horizontal crosshair 
+      If the star drifts up, adjust the wedge in altitude to move star down 
+      If the star drifts down, adjust the wedge plate in altitude to move star up 
+10.  Place the star back on the crosshair using hand-controller and check drift
+11.  Repeat adjustments as necessary until no drift is seen for 5 minutes
